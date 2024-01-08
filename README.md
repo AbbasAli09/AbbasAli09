@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbbasAli09
-- 👀 I’m interested in doing some coding (Java).
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on projects that include coding in Java.
+- 👀 I’m interested in doing Data Analyst Projects.
+- 🌱 I’m currently learning AWS.
+- 💞️ I’m looking to collaborate on projects that include coding in Python.
 - 📫 How to reach me ....email- abbasnotes9@gmail.com 
 
 <!---
